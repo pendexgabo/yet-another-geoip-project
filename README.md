@@ -4,7 +4,7 @@ So, I just needed something simple but that works. A simple Geo-IP service that 
 
 ## Demo
 
-You can see the application workingh here: http://geo-ip.herokuapp.com/
+You can see the application working here: http://geo-ip.herokuapp.com/
 
 ## License
 
