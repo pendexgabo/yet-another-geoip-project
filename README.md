@@ -2,6 +2,10 @@
 
 So, I just needed something simple but that works. A simple Geo-IP service that supports JSONP calls
 
+## Demo
+
+You can see the application workingh here: http://geo-ip.herokuapp.com/
+
 ## License
 
 Copyright (c) 2012 Gabriel Sosa
